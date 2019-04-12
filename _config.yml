@@ -42,6 +42,9 @@ topics:
     web_url: https://github.com/bikalims/bika.lims
     image_url: https://avatars3.githubusercontent.com/u/30825552?s=200&v=4
 
+  - name: Bika OpenHIM
+    web_url: https://github.com/bikalims/bika.openhim
+
   - name: Senaite LIMS
     web_url: https://github.com/senaite/senaite.lims
     image_url: https://avatars1.githubusercontent.com/u/29165573?s=200&v=4
