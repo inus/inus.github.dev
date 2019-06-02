@@ -32,8 +32,10 @@ social_media:
    linkedin: inusscheepers
 
 
-
 topics:
+  - name: Indico Plugins
+    web_url: https://github.com/indico/indico-plugins
+
   - name: Bika Labs
     web_url: https://github.com/bikalabs
     image_url: https://avatars3.githubusercontent.com/u/1191551?s=200&v=4
@@ -56,8 +58,8 @@ topics:
   - name: freebsd
     web_url: https://freebsd.org
 
-  - name: MicroChip
-    web_url: https://github.com/MicrochipTech
-    image_url: https://avatars0.githubusercontent.com/u/8910143?s=200&v=4
+    #  - name: MicroChip
+    #web_url: https://github.com/MicrochipTech
+    #image_url: https://avatars0.githubusercontent.com/u/8910143?s=200&v=4
 
 
